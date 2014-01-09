@@ -1,3 +1,3 @@
 - `npm install`
 - `node app.js`
-- Open <http://localhost:3000>
+- Open <http://localhost:3000/stuff.php?param=1>
